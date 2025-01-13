@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: demo
+  data:
+    mongodb:
+      user: admin
+      password: my_password
+      uri: mongodb://anton:password@localhost:27017/cuby
